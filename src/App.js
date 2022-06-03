@@ -1,11 +1,10 @@
+import JiraRouter from './router';
 
-import './App.css';
+import './styles/index.scss';
 
 function App() {
   return (
-    <div className="App">
-      HEllo
-    </div>
+    <JiraRouter />
   );
 }
 
