@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+<img src="https://github.com/dream-onepiece/jira/blob/c4da03e0dc070586b850c9afe3e8647164266671/paper.png" />
+
 ### `npm start`
 
 Runs the app in the development mode.\
